@@ -1,4 +1,4 @@
-# Motiv.
+# Reservation System in React JS.
 
 ### Quick Start
 
